@@ -1,0 +1,4 @@
+{
+  "ActivationUrl": "https://raw.githubusercontent.com/jokerraees1-max/SmartPosLicensing/main/active_hwids.txt",
+  "BlocklistUrl": "https://raw.githubusercontent.com/jokerraees1-max/SmartPosLicensing/main/blocked_hwids.txt"
+}
